@@ -35,14 +35,6 @@ A step by step series of examples that tell you how to get a development env run
 > sudo docker-compose up --build
 ```
 
-## Authors
-
-* **SimCoder** - *Main Dev* - [Simcoder](https://simcoder.com)
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
 
